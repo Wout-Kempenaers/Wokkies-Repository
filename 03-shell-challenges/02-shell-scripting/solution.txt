@@ -1,0 +1,4 @@
+.sh
+Shebang line
+execute permission
+chmod u+x scriptname
